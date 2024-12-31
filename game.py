@@ -1,4 +1,4 @@
-import pygame
+import pygame # type: ignore
 
 run = True
 width = 400
