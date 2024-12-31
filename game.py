@@ -1,5 +1,6 @@
 import pygame # type: ignore
 
+
 run = True
 width = 400
 height = 100
